@@ -4,11 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `In the project creating a React App From Scratch`
-
-
-
-### `npm i --save`
+### `In the project creating a React App From Scratch webpack babel react  react-dom`
 
 
 ### `npm start`
